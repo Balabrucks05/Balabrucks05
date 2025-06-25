@@ -25,7 +25,7 @@ I'm passionate about building decentralized applications that make a real-world 
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/BalaSubramani" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/bala-subramani-3215b82b5/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
